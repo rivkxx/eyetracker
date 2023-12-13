@@ -18,7 +18,7 @@ Clone the repository:
 shell
 Copy code
 
-git clone https://github.com/your-repository.git
+git clone https://github.com/rivkxx/eyetracker
 cd eye-tracking-app
 
 Install the required dependencies:
